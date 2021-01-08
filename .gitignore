@@ -1,5 +1,5 @@
 
-.~lock.*.xlsx
+.~lock.*.xlsx*
 # Unit test / coverage reports
 htmlcov/
 .tox/
