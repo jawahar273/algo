@@ -1,4 +1,4 @@
 # Algo
 
 
-Implementation of selective algorithm in Python and Rust
+Implementation of algorithms in Python and Rust
