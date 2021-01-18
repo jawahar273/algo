@@ -13,6 +13,7 @@ class Array:
 
         for element in self.elements[1:]:
             max_now = max(element, max_now + element)
+            print("max_now: ", max_now)
             _max = max(max_now, _max)
         return _max
 
